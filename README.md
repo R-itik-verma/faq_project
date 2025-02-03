@@ -26,5 +26,4 @@ Before setting up the project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+https://github.com/R-itik-verma/faq_project.git
